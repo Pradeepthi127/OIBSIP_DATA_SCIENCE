@@ -111,3 +111,27 @@ Analyze the effect of advertising channels on sales and build a model that provi
 
 ## ✅ Outcome  
 Achieved accurate sales predictions and discovered that **TV advertising had the strongest impact on sales growth**, followed by Radio, while Newspaper had the least effect. This provided **valuable business insights for marketing strategy**.  
+---
+
+## 🎥 Demo Videos  
+
+Here is your updated table with each task's specific LinkedIn demo video links:
+
+| Task No. | Project Title              | LinkedIn Demo Video                                                     |
+|----------|----------------------------|------------------------------------------------------------------------|
+| Task 1   | 🌸 Iris Flower Classification | [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7370899510472048641/) |
+| Task 2   | 📉 Unemployment Rate Analysis | [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7371620428529754112/) |
+| Task 3   | 🚗💰 Car Price Prediction     | [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7371621027438542850/) |
+| Task 4   | 📧 Email Spam Detection       | [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7371621565353852928/) |
+| Task 5   | 📦📊 Sales Prediction         | [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7371622186895183873/) |
+
+
+
+
+
+
+
+
+
+
+---
